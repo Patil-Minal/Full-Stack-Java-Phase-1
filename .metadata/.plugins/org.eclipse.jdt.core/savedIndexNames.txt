@@ -1,0 +1,11 @@
+INDEX VERSION 1.131+C:\Course\FSD Java\Day01\.metadata\.plugins\org.eclipse.jdt.core
+3527835228.index
+4047578022.index
+3352537029.index
+712673515.index
+3010713937.index
+4194743264.index
+2642841289.index
+2621358486.index
+1865797976.index
+570915288.index

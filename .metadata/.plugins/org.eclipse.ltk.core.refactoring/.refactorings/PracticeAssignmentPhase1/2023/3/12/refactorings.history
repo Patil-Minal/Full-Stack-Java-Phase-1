@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;index&apos; in &apos;LinkedListPrac.main(...)&apos; to &apos;ind&apos;&#x0D;&#x0A;- Original project: &apos;PracticeAssignmentPhase1&apos;&#x0D;&#x0A;- Original element: &apos;LinkedListPrac.main(String[]).index&apos;&#x0D;&#x0A;- Renamed element: &apos;index&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;index&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;{LinkedListPrac.java[LinkedListPrac~main~\[QString;@index!665!678!673!677!I!0!false" name="ind" references="true" stamp="1679654514168" version="1.0"/>
+</session>
